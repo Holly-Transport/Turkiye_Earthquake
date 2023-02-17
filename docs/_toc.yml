@@ -2,11 +2,10 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Examples
+  - caption: Data Lab Strategic Brief
     numbered: True
     chapters:
-    - file: notebooks/world-bank-api.ipynb
-    - file: notebooks/world-bank-package.ipynb
+    - file: docs/turkiye_strategic_brief.md
   - caption: Additional Resources
     chapters:
       - url: https://datapartnership.org
