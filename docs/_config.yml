@@ -1,10 +1,10 @@
 # Book settings
-title:
-author: Development Data Partnership
+title: Support for Estimating Socio-Economic Impacts of Turkiye-Syria Earthquake
+author: World Bank Data Lab
 logo: docs/images/logo.png
 
 repository:
-    url: https://github.com/datapartnership/template
+    url: https://github.com/Holly-Transport/Turkiye_Earthquake
     branch: main
 
 html:
@@ -13,6 +13,6 @@ html:
     use_edit_page_button: true
     use_repository_button: true
     use_issues_button: true
-    baseurl: https://datapartnership.github.io/template
+    baseurl: https://github.com/Holly-Transport/Turkiye_Earthquake
 
 only_build_toc_files: true
