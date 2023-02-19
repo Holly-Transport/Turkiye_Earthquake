@@ -21,4 +21,4 @@ WB Data Lab recommendations are presented in three sections:
 
 ## License
 
-This repository is licensed under the [**World Bank Master Community License Agreement**](LICENSE.md). Remember to replace the [license](LICENSE.md) if necessary. If open source, [choose an open source license](https://choosealicense.com).
+This repository is licensed under the [**World Bank Master Community License Agreement**](LICENSE.md).
