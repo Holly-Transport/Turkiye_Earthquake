@@ -3,7 +3,7 @@ root: README
 
 parts:
   - caption: Data Lab Strategic Brief
-    numbered: True
+    numbered: False
     chapters:
     - file: docs/turkiye_strategic_brief.md
   - caption: Additional Resources
